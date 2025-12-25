@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"eventreg2","c":"ICRUD","l":"create(T)"},{"p":"eventreg2","c":"ICRUD","l":"delete(int)"},{"p":"eventreg2","c":"ICRUD","l":"read(int)"},{"p":"eventreg2","c":"ICRUD","l":"readAll()"},{"p":"eventreg2","c":"ICRUD","l":"update(T)"}];updateSearchResults();
